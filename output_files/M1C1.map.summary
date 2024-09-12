@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Sep 12 14:18:54 2024
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Web Edition
+Revision Name : M1C1
+Top-level Entity Name : Register_Bank
+Family : Cyclone III
+Total logic elements : 543
+    Total combinational functions : 250
+    Dedicated logic registers : 330
+Total registers : 330
+Total pins : 278
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
